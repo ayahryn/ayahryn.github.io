@@ -1,0 +1,35 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: #e1f0fc;
+  /*font-family: Georgia, Times, "Times New Roman", serif;*/
+  font-family: "Gill Sans", sans-serif;
+  font-size: 2em;
+}
+
+nav {
+  border-radius: 25px;
+  border: solid;
+  background-color: black;
+}
+
+a {
+  padding: 37px;
+  text-decoration: none;
+  color: lightblue
+    /*#1700e8*/
+  ;
+}
+
+
+a:hover {
+  color: #ff00a6;
+}
+
+.Logos {
+  color: black;
+  padding-right: 50px;
+  width: 80px;
+  height: 80px;
+
+}
